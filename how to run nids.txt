@@ -1,0 +1,20 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf 
+
+type 
+
+cd C:\Users\User\OneDrive\Desktop\NIDS 
+
+type 
+
+set FLASK_APP=server.py
+
+type 
+
+python -m flask run --host 127.0.0.1 --port 5000  ( u will get ip address then copy this link and paste in chrome website will open http://127.0.0.1:5000/)
+
